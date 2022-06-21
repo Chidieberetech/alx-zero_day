@@ -1,1 +1,2 @@
-
+Emma = "German"
+print(Emma)
